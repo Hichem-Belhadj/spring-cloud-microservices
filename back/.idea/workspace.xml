@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6497840-15d0-41fa-8842-5559a303242a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/hbtheme/customerservice/config/GlobalConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/hbtheme/customerservice/controllers/ConfigTestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-git-repo/account-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-git-repo/account-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-git-repo/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-git-repo/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-git-repo/customer-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-git-repo/customer-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/com/hbtheme/customerservice/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/hbtheme/customerservice/CustomerServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/com/hbtheme/customerservice/controllers/ConfigTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/hbtheme/customerservice/controllers/ConfigTestController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709027760239</updated>
       <workItem from="1709027762880" duration="21630000" />
-      <workItem from="1709061332373" duration="3988000" />
+      <workItem from="1709061332373" duration="4969000" />
     </task>
     <servers />
   </component>

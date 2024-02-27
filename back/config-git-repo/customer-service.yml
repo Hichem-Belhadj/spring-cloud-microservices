@@ -4,3 +4,7 @@ spring:
   h2:
     console:
       enabled: true
+application:
+  params:
+    x: 1234
+    y: 5678
