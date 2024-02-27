@@ -2,12 +2,11 @@ spring:
   application:
     name: config-service
   cloud:
-    discovery:
-      enabled: true
     config:
       server:
         git:
           uri: https://github.com/Hichem-Belhadj/spring-cloud-microservices.git
           search-paths: back/config-git-repo
+          clone-on-start: true
 server:
   port: 9999

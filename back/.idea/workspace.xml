@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6497840-15d0-41fa-8842-5559a303242a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/config-git-repo/account-service-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-git-repo/account-service-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-git-repo/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-git-repo/customer-service-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-git-repo/customer-service-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-git-repo/customer-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/hbtheme/customerservice/config/GlobalConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/hbtheme/customerservice/controllers/ConfigTestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-git-repo/account-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-git-repo/account-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/src/main/java/com/hbtheme/configservice/ConfigServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/java/com/hbtheme/configservice/ConfigServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-git-repo/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-git-repo/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-git-repo/customer-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-git-repo/customer-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/com/hbtheme/customerservice/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/hbtheme/customerservice/CustomerServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/dev/workspace/java/spring-cloud-microservices/back/config-git-repo"
+    "last_opened_file_path": "C:/dev/workspace/java/spring-cloud-microservices/back/config-git-repo",
+    "settings.editor.selected.configurable": "spring.boot",
+    "spring.configuration.checksum": "1dac5391c1d9a2474002055b0742649a"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -140,7 +143,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709027760239</updated>
-      <workItem from="1709027762880" duration="18455000" />
+      <workItem from="1709027762880" duration="21630000" />
+      <workItem from="1709061332373" duration="3988000" />
     </task>
     <servers />
   </component>
@@ -160,5 +164,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
