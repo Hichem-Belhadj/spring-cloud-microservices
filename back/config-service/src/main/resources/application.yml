@@ -7,4 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Hichem-Belhadj/spring-cloud-microservices/config-git-repo
+          uri: https://github.com/Hichem-Belhadj/spring-cloud-microservices.git
+          search-paths: back/config-git-repo
+server:
+  port: 9999

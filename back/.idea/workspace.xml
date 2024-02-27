@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6497840-15d0-41fa-8842-5559a303242a" name="Changes" comment="" />
+    <list default="true" id="a6497840-15d0-41fa-8842-5559a303242a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/config-git-repo/account-service-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-git-repo/account-service-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-git-repo/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-git-repo/customer-service-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-git-repo/customer-service-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-git-repo/customer-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-git-repo/account-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-git-repo/account-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-service/src/main/java/com/hbtheme/configservice/ConfigServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/java/com/hbtheme/configservice/ConfigServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,14 +65,18 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/dev/workspace/java/spring-cloud-microservices/back/customer-service"
+    "last_opened_file_path": "C:/dev/workspace/java/spring-cloud-microservices/back/config-git-repo"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.hbtheme.accountservice.enums" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\workspace\java\spring-cloud-microservices\back\config-git-repo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\workspace\java\spring-cloud-microservices\back\config-git-repo" />
       <recent name="C:\dev\workspace\java\spring-cloud-microservices\back" />
     </key>
   </component>
@@ -86,6 +102,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CustomerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <option name="ACTIVE_PROFILES" />
+      <module name="customer-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hbtheme.customerservice.CustomerServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="discovery-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.hbtheme.discoveryservice.DiscoveryServiceApplication" />
@@ -103,6 +127,7 @@
     <list>
       <item itemvalue="Spring Boot.AccountServiceApplication" />
       <item itemvalue="Spring Boot.ConfigServiceApplication" />
+      <item itemvalue="Spring Boot.CustomerServiceApplication" />
       <item itemvalue="Spring Boot.DiscoveryServiceApplication" />
       <item itemvalue="Spring Boot.GatewayServiceApplication" />
     </list>
@@ -115,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709027760239</updated>
-      <workItem from="1709027762880" duration="16296000" />
+      <workItem from="1709027762880" duration="18455000" />
     </task>
     <servers />
   </component>

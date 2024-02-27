@@ -1,0 +1,4 @@
+customer:
+  params:
+    x: 8
+    y: 9
