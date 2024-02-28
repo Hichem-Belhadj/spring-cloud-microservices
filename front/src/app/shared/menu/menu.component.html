@@ -1,0 +1,13 @@
+<button mat-icon-button [matMenuTriggerFor]="menu" aria-label="Example icon-button with a menu">
+  <mat-icon>menu</mat-icon>
+</button>
+<mat-menu #menu="matMenu">
+  <a routerLink="accounts" mat-menu-item>
+    <mat-icon>dialpad</mat-icon>
+    <span>Account</span>
+  </a>
+  <a routerLink="customers" mat-menu-item>
+    <mat-icon>dialpad</mat-icon>
+    <span>Customers</span>
+  </a>
+</mat-menu>

@@ -2,7 +2,10 @@ spring:
   application:
     name: config-service
   cloud:
+    discovery:
+      enabled: true
     config:
+      enabled: true
       server:
         git:
           uri: https://github.com/Hichem-Belhadj/spring-cloud-microservices.git
@@ -10,3 +13,14 @@ spring:
           clone-on-start: true
 server:
   port: 9999
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    serviceUrl:
+      defaultZone: ${DISCOVERY_SERVICE_URL:http://localhost:8761/eureka/}
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
