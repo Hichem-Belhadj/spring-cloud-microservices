@@ -1,0 +1,21 @@
+services:
+  my-discovery-service:
+    build: ./discovery-service
+    container_name: my-discovery-service
+    ports:
+      - '8761:8761'
+    expose:
+      - '8761'
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8761/actuator/health"]
+      interval: 10s
+  my-config-service:
+    build: ./config-service
+    container_name: my-config-service
+    ports:
+      - '9999:9999'
+    expose:
+      - '9999'
+    depends_on:
+      my-discovery-service:
+        condition: service_healthy

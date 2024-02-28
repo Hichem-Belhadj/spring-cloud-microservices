@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6497840-15d0-41fa-8842-5559a303242a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/config-service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-git-repo/customer-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-git-repo/customer-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/com/hbtheme/customerservice/controllers/ConfigTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/java/com/hbtheme/customerservice/controllers/ConfigTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-git-repo/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-git-repo/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +60,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/dev/workspace/java/spring-cloud-microservices/back/config-git-repo",
+    "last_opened_file_path": "C:/dev/workspace/java/spring-cloud-microservices/back/config-service",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "spring.boot",
     "spring.configuration.checksum": "1dac5391c1d9a2474002055b0742649a"
   }
@@ -67,12 +71,18 @@
       <recent name="com.hbtheme.accountservice.enums" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\workspace\java\spring-cloud-microservices\back\config-service" />
       <recent name="C:\dev\workspace\java\spring-cloud-microservices\back\config-git-repo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\dev\workspace\java\spring-cloud-microservices\back\config-git-repo" />
       <recent name="C:\dev\workspace\java\spring-cloud-microservices\back" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package -DskipTests" />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -135,7 +145,8 @@
       <option name="presentableId" value="Default" />
       <updated>1709027760239</updated>
       <workItem from="1709027762880" duration="21630000" />
-      <workItem from="1709061332373" duration="4969000" />
+      <workItem from="1709061332373" duration="5636000" />
+      <workItem from="1709071667966" duration="5300000" />
     </task>
     <servers />
   </component>
