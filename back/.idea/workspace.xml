@@ -5,69 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6497840-15d0-41fa-8842-5559a303242a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/account-service/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-git-repo/gateway-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-service/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/.vscode/extensions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/app.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/core/services/api.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/core/services/api.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/modules/accounts/accounts-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/modules/accounts/accounts.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/modules/accounts/accounts.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/modules/accounts/accounts.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/modules/accounts/accounts.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/modules/accounts/accounts.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/modules/customers/customers-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/modules/customers/customers.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/modules/customers/customers.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/modules/customers/customers.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/modules/customers/customers.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/modules/customers/customers.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/modules/shared/shared.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/shared/header/header.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/shared/header/header.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/shared/header/header.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/shared/header/header.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/shared/home/home.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/shared/home/home.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/shared/home/home.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/shared/home/home.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/shared/menu/menu.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/shared/menu/menu.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/shared/menu/menu.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/app/shared/menu/menu.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front/.scannerwork/.sonar_lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front/.scannerwork/report-task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../front/sonar-project.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/back-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/back-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../front/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../front/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/core/services/api.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/app/core/services/api.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/modules/accounts/accounts.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/app/modules/accounts/accounts.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/modules/customers/customers.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/app/modules/customers/customers.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/shared/header/header.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/app/shared/header/header.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/app/shared/menu/menu.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/app/shared/menu/menu.component.spec.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +97,10 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean package -DskipTests" />
+      <command value="mvn clean.jacoco:jacoco-maven-plugin:prepare-agent install" />
+      <command value="mvn clean jacoco:jacoco-maven-plugin:prepare-agent install" />
+      <command value="mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install" />
+      <command value="mvn sonar:sonar -Dsonar.login=sqa_fb31c0c85c32ee3857b2006360a60feb770edb86" />
     </option>
   </component>
   <component name="RunDashboard">
@@ -206,7 +165,7 @@
       <updated>1709027760239</updated>
       <workItem from="1709027762880" duration="21630000" />
       <workItem from="1709061332373" duration="5636000" />
-      <workItem from="1709071667966" duration="15606000" />
+      <workItem from="1709071667966" duration="24051000" />
     </task>
     <servers />
   </component>

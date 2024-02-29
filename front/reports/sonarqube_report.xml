@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+<testExecutions version='1'>
+    <file path='src/app/modules/customers/customers.component.spec.ts'>
+        <testCase name='CustomersComponent should create' duration='58'/>
+    </file>
+    <file path='src/app/modules/accounts/accounts.component.spec.ts'>
+        <testCase name='AccountsComponent should create' duration='21'/>
+    </file>
+    <file path='src/app/app.component.spec.ts'>
+        <testCase name='AppComponent should create the app' duration='18'/>
+    </file>
+    <file path='src/app/shared/menu/menu.component.spec.ts'>
+        <testCase name='MenuComponent should create' duration='30'/>
+    </file>
+    <file path='src/app/shared/home/home.component.spec.ts'>
+        <testCase name='HomeComponent should create' duration='4'/>
+    </file>
+    <file path='src/app/shared/header/header.component.spec.ts'>
+        <testCase name='HeaderComponent should create' duration='4'/>
+    </file>
+    <file path='src/app/core/services/api.service.spec.ts'>
+        <testCase name='ApiService should be created' duration='2'/>
+    </file>
+</testExecutions>
